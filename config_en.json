@@ -1076,7 +1076,7 @@
 "enable":false,
 "height":100}
 },
-"ProductListLayout":"list",
+"ProductListLayout":"vendor",
 "FontFamily":"Roboto",
 "MainColor":"ff388e3c",
 "StickyHeader":false,
