@@ -1076,7 +1076,7 @@
 "enable":false,
 "height":100}
 },
-"ProductListLayout":"vendor",
+"ProductListLayout":"list",
 "FontFamily":"Roboto",
 "MainColor":"ff388e3c",
 "StickyHeader":false,
@@ -1155,7 +1155,8 @@
 },
 {
 "key":"yzgjzqldtz",
-"layout":"category",
+"categoryLayout":"card",
+"layout":"vendors",
 "icon":"circle_grid_3x3",
 "fontFamily":"CupertinoIcons",
 "pos":200,
