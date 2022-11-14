@@ -536,7 +536,7 @@
 },
 "VerticalLayout":{
 "imageRatio":1,
-"layout":"columns",
+"layout":"list",
 "showCartIconColor":false,
 "showCartButton":false,
 "hideStore":true,
