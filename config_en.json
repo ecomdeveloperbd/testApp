@@ -260,9 +260,8 @@
 "fontFamily":"CupertinoIcons",
 "pos":200,
 "defaultTab":false,
-"categoryLayout":"sideMenu",
-"categories":[],
-"parallax":false,
+"categoryLayout":"card",
+"parallax":true,
 "parallaxImageRatio":1.2
 },
 {
