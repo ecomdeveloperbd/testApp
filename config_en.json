@@ -333,7 +333,7 @@
 "hideStore":false,
 "hidePrice":false,
 "showHeart":true,
-"showCartButton":true,
+"showCartButton":false,
 "cartIconRadius":12.0,
 "showQuantity":false,
 "showCartIconColor":false,
