@@ -48,6 +48,17 @@
 ]
 },
 {
+"layout":"brand",
+"isBrandNameShown":true,
+"isLogoCornerRounded":true,
+"name":"Your Brand"
+},
+{
+"name":"Shop List",
+"columnCount":3,
+"layout":"featuredVendors"
+},
+{
 "name":"Women Fashion",
 "layout":"threeColumn",
 "category":"47",
@@ -91,17 +102,6 @@
 "parallaxImageRatio":1.2,
 "hideEmptyProductLayout":false,
 "productListItemHeight":112.99999999999999
-},
-{
-"layout":"brand",
-"isBrandNameShown":true,
-"isLogoCornerRounded":true,
-"name":"Your Brand"
-},
-{
-"name":"Shop List",
-"columnCount":3,
-"layout":"featuredVendors"
 }
 ],
 "Setting":{
