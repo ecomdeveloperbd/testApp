@@ -93,9 +93,10 @@
 "productListItemHeight":112.99999999999999
 },
 {
-"layout":"geoSearch",
-"showSeeAll":null,
-"headerText":"map"
+"layout":"brand",
+"isBrandNameShown":true,
+"isLogoCornerRounded":true,
+"name":"Your Brand"
 },
 {
 "name":"Shop List",
@@ -103,10 +104,7 @@
 "layout":"featuredVendors"
 },
   {
-"username":"shamima_afrinomi",
-"uid":"",
-"secUid":"",
-"avatarUrl":"",
+"username":"blankpage55",
 "marginLeft":16.0,
 "marginRight":16.0,
 "marginTop":8.0,
@@ -320,4 +318,25 @@
 }
 ]
 },
-"AppBar":{}}
+"AppBar":{},
+
+"VerticalLayout":{
+"key":"uwvx0abqtb",
+"layout":"columnsWithFilter",
+"name":"Recent Product",
+"isVertical":true,
+"hPadding":6.0,
+"vPadding":2.0,
+"showStockStatus":true,
+"enableRating":true,
+"hideTitle":false,
+"hideStore":false,
+"hidePrice":false,
+"showHeart":true,
+"showCartButton":true,
+"cartIconRadius":12.0,
+"showQuantity":false,
+"showCartIconColor":false,
+"showCartIcon":true,
+"imageRatio":1.2,
+"shuffle":false}}
