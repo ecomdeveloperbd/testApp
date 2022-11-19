@@ -307,7 +307,7 @@
 
 "VerticalLayout":{
 "key":"uwvx0abqtb",
-"layout":"default",
+"layout":"column",
 "name":"Recent Product",
 "isVertical":true,
 "hPadding":6.0,
